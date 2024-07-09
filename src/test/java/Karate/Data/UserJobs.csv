@@ -1,0 +1,5 @@
+nombreCaso,name,Vname,job,Vjob
+nameVacio,name,,job,QA
+sinCampoName,,Renzo,job,QA
+jobVacio,name,Renzo,job,
+sinCampoJob,name,Renzo,,QA
